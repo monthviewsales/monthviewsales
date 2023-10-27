@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monthviewsales
+- 👋 Hi, I’m @monthviewsales aka 'Jeeps \& Ducks'
 - 👀 I'm checking out github because im learning to code
 - 🌱 I’m currently learning java & .net
 - 📫 duty.brand.cover@cloak.id
