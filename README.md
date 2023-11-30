@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monthviewsales aka 'Jeeps \& Ducks'
-- 👀 I'm checking out github because im learning to code
-- 🌱 I’m currently learning java & .net
+- 👀 I'm going to revolutionize the supplychain
+- 🌱 I’m currently learning javascript & .net
 - 📫 duty.brand.cover@cloak.id
 
 <!---
